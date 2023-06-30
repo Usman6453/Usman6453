@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS and Hacking
-- 💞️ I’m looking to collaborate on Web Development and Hacking
+- 🌱 I’m currently learning CSS and javascript
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : usmanr6453@gmail.com
 - Whatsapp No 03180978976
 
